@@ -7,3 +7,4 @@
       
 My Thoughts about the code
    > The codes is a total chaos in my own observation. Mostly every method has many things to do instead focus on 1 thing/method. And instead of giving its parameter type directly, it was implemented inside doc blocks. Removing also extra line-breaks which is not advisable as per PSR-12: Extended Coding Style - https://www.php-fig.org/psr/psr-12/. Most of the codes needs to refactor/cleaning.
+   >  Codes has a lot of duplications and not easy to maintain due to lot of things happening in each methods.
